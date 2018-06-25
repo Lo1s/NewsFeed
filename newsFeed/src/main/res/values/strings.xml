@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="source_title_name">Name: </string>
+    <string name="source_title_category">Category: </string>
+    <string name="save_article_dialog_message">Save article for offline reading ?</string>
+    <string name="save_article_dialog_title">Read later</string>
+    <string name="save_article_dialog_ok">OK</string>
+    <string name="save_article_dialog_cancel">Cancel</string>
+    <string name="save_article_snackbar_ok_clicked">Article saved to archive</string>
+    <string name="save_article_snackbar_cancel_clicked">Article saving had been canceled.</string>
+    <string name="archive_article_snackbar_delete">Archived article had been deleted.</string>
+    <string name="archive_article_dialog_title">Archived Article</string>
+    <string name="archive_article_dialog_message">Do you want to View or Delete article ?</string>
+    <string name="archive_article_dialog_view">View</string>
+    <string name="archive_article_dialog_delete">Delete</string>
+    <string name="menu_newsfeed">News</string>
+    <string name="menu_sources">Sources</string>
+    <string name="menu_archive">Archive</string>
+    <string name="archive_empty">There are not any saved articles.</string>
+    <string name="archive_delete_button">Delete</string>
+    <string name="newsfeed_connection">Please connect to the internet.</string>
+    <string name="splash_title">NewsFeed</string>
+    <string name="splash_powered">powered by NewsApi.org</string>
+    <string name="articles_rx_failure">Failure during articles download. Check your connection.</string>
+    <string name="sources_rx_failure">Failure during sources download. Check your connection.</string>
+    <string name="sd_card_not_available">Please insert SD Card in order to save the article.</string>
+    <string name="read_write_permissions_disabled">Please enable Read/Write permissions  in order to save the article.</string>
+</resources>

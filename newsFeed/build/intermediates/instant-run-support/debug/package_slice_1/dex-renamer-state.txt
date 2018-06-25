@@ -1,0 +1,4 @@
+#Tue Oct 03 09:01:08 CEST 2017
+base.0=C\:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

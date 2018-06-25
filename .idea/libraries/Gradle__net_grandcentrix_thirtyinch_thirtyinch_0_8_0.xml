@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.grandcentrix.thirtyinch:thirtyinch-0.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/287a1afc30c1ce7f352bf74acf115fdb34c348a6/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/287a1afc30c1ce7f352bf74acf115fdb34c348a6/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.grandcentrix.thirtyinch/thirtyinch/0.8.0/d2d9bd746daf3b1ab0becdcf3b68105a88a685d/thirtyinch-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_archive_white_24dp.png",
+        "source": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\src\\main\\res\\drawable-mdpi\\ic_archive_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_radio_white_24dp.png",
+        "source": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\src\\main\\res\\drawable-mdpi\\ic_radio_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_web_white_24dp.png",
+        "source": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\src\\main\\res\\drawable-mdpi\\ic_web_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_add_white_24dp.png",
+        "source": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\src\\main\\res\\drawable-mdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\news_placeholder.png",
+        "source": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\src\\main\\res\\drawable-mdpi\\news_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\source_placeholder.png",
+        "source": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\src\\main\\res\\drawable-mdpi\\source_placeholder.png"
+    }
+]

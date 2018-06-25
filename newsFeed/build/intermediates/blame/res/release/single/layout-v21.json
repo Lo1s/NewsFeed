@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ji066375\\.android\\build-cache\\e56d0560b8e0e6311ac79cb2e84f9295976e9ae1\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ji066375\\.android\\build-cache\\e56d0560b8e0e6311ac79cb2e84f9295976e9ae1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ji066375\\.android\\build-cache\\e56d0560b8e0e6311ac79cb2e84f9295976e9ae1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ji066375\\workspace-android-studio\\NewsFeed\\newsFeed\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ji066375\\.android\\build-cache\\e56d0560b8e0e6311ac79cb2e84f9295976e9ae1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

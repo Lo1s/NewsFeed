@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\d32f06b5da0e565a9c93ad420789cf1900e454af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b74347e1dbf76c1f1e5ee29077b0b9920f2e671">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_ddfa1354c9b6fa4902c155dde41a4d705219ad88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\jsr305-2.0.1_6969028612dca8ea482b632dff3a3942c4d47c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\okhttp-3.9.0_554993db463cf0833df7eadbc27c57d37861b614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_7eaeed7d07f9bd9d21661f187ff9b65bae9b9db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\gson-2.7_6fb583bc5753f4fde0ed7505a3583646c7e7635e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\c89caf059dd9ddc45ff087833c9fb56de5ed744f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_623be6893468aca275e03f567e046fe86dbf851a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_216ad678ad180b17320dca477078d83a08fb6015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\picasso-2.5.2_b464ab186281048a65cdd19009692368d0d92985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\rxjava-2.0.1_d4152c4c44c2ed6edea9d5a56eb3cd6a1f2b9ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ccbcf9c6799492bbe16910c1e4761598057ef274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\5b4e2e143cc6d094b7ac7f5daa11287ab6be7221\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_3b960a2df72fb21f014d60a7ab36768e3353fe6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\e56d0560b8e0e6311ac79cb2e84f9295976e9ae1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_ab327e5b6407036df17edf61ab2cc4745e9749ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.google.auto.value\auto-value\1.4\6d1448fcd13074bd3658ef915022410b7c48343b\auto-value-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d1448fcd13074bd3658ef915022410b7c48343b">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\auto-value-1.4_184a664ccd9fb3e2d5bf28a4566a95d0a2b2583f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\8de64149d02b6d5a1d71dd18da527252d1fb0f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_5414f6d069a13a952bc92d576403fcb5e04fc596.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16ad3e84fb138de182dadbd451485dacf007d975">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33deea0415a4ebc180e02c7ffffd064458824b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.9.0\3bf7f8d6a20c90ffe9fc3f3c9118193c7720ecf1\logging-interceptor-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3bf7f8d6a20c90ffe9fc3f3c9118193c7720ecf1">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\logging-interceptor-3.9.0_5510ac9fb33f7f96958492753b718de07ca7102b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_05ee57a4330dcc8861eabf51778ae9209c4d2c88\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\193bfa0f9f18773cccca0817d5d5667816954f52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_2fb45fa8e2713e2f1942548c0cb6cfc8e78ac8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\commons-cli-1.2_a81437ecb1e89e01af83c3e9d08207cdd649c4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\retrofit-2.3.0_38b9c18db4a782064fa046d9b50bbc12a6f4e2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\0c04637160c3b4f31b9230c152a51999226ef33a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8b0b1eeed2c2e1fde0053cdd6c779c43aee9f10a">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_8d3ee25291824d254ac52419441306aa7c36481d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_edcb43ff2a9e6e2731392be832a24af089bcbf96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\00542d32ab82587b8dca636d86caca50f0de9bb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_ff454e6416cd3c13f4fd0dfbedc8c888fd5c9326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\18888458f0d93589c762ce514dc1cddfab0988f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_9df9415bd7a8fe159b2e150574a69ae0dabc3332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\fca87c2fe6150182bb5df047f95c9535d7f5a6aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_768246e4a2492a47c135dd948b30e3b6c4ef4a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\980bf244f10ebb93f8cba1f8994005d4cb3df222\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_893cfcd0f39ecddedfd95cfa2a80e71f1616d45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\acc92054b63d4a0346a29382f45b0f66dc1e8429\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb35a00291f9c16756e90699a0e885f5898a5100">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_712ae96bbe32b24a03c43435c5e2dd3b5d67d202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\768c140dd99991b2c5b08c654fabf4dfe031cf57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_0effd416a7fed8d110e1f192f38e5eb481e222af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\896410c90e677888e4d0937aed2fba9267c637fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_ff7e9dbb62f969ae3ec1497aa605b57dfa1b2b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\okio-1.13.0_34016b100b0522c702329907fe59006c1411bc46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\ab77d33f14154def428979d0319e66c4cf656e71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_bc25ebe3fed965ccad8bc6e1724c7c258541f0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_69810976d7b9797a0bfd1e321d4090af49c6d321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\23e4d939502b9828547c51dcae896b7d0f5dffd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_88d2ecce6c8092ff97316c0051ca2940dd41dbe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\b3b7b483e55af0a47f97eb59da8fe046c6bf52b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_e1c9ee7d8f818d58d63e0f1b4d22d66a48c745d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.3.0\f436637f9500ab5b8bc32afe556373180894b4a5\adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.3.0_827984ab440f54d87ae4645006b4596e3ae8b571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\dbe07fe708cf0c2ab1a3a616607838f13f438c99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_781d681c6b412eb6d0c12399d972930823236eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\b7f96c7db88cefd5210005a0335b9a6f0a41fcbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_a1f662ab8c207e1ba204ad9c97e453a6a3e359de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\936a91dfdbaf116bd243a3d5fd7bad0403862608\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_88462095ee768342f9f872c7b599df103ce73062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ji066375\.android\build-cache\da04affe1520f8942c65d8b296ccff4123f51cbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\ji066375\workspace-android-studio\NewsFeed\newsFeed\build\intermediates\pre-dexed\debug\classes_a05a561e9f5f88b97289110ffaf974283f5ac64a.jar" />
+    </item>
+
+</items>

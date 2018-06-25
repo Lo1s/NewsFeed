@@ -1,0 +1,31 @@
+CREATE TABLE articles (
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    author TEXT,
+    title TEXT,
+    description TEXT,
+    url TEXT,
+    urlToImage TEXT,
+    publishedAt TEXT,
+    content TEXT
+);
+
+InsertArticle:
+INSERT INTO articles (
+    author,
+    title,
+    description,
+    url,
+    urlToImage,
+    publishedAt,
+    content
+)
+VALUES (?, ?, ?, ?, ?, ?, ?);
+
+SelectArticleById:
+SELECT * FROM articles WHERE id = ?;
+
+DeleteArticleById:
+DELETE FROM articles WHERE id = ?;
+
+SelectAllArticles:
+SELECT * FROM articles ORDER BY id DESC;
